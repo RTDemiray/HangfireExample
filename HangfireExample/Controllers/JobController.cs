@@ -1,7 +1,7 @@
 using System.Threading.Tasks;
 using HangfireExample.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
-
+//Job'ı olmayan bildirimlerin job'ını oluşturan servis...
 namespace HangfireExample.Controllers
 {
     [Route("api/[controller]")]
